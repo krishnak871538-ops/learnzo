@@ -1,0 +1,6 @@
+{
+  "name": "Learnzo",
+  "description": "Interactive educational game for kids with animated cartoon teachers, personalized study plan, smart learning memory, surprise boxes, and parent PTM report.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
